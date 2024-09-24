@@ -18,15 +18,11 @@
             android:layout_height="wrap_content"
             android:text="Start"
             android:fontFamily="@font/bricksans"
-            android:textSize="56dp"
+            android:textSize="60dp"
             android:textColor="@color/white"
             android:backgroundTint="#bb8044"
             android:layout_marginBottom="@dimen/cardview_default_elevation"
             android:onClick="startGame"
-
-
-    />
-
-
-
+            android:layout_marginTop="-90dp"
+/>
 </LinearLayout>
